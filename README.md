@@ -76,6 +76,8 @@ Project Philosophy: 'It's not about testing what we know, but what we don't know
 
 05 Nov 2026, 10:39
 
+<br />
+
 ## Contributors and collaborative AI
 
 [Kai5](https://orcid.org/0009-0001-6193-032X) & Cipher, Lumo
