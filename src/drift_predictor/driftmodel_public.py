@@ -87,9 +87,9 @@ RNG_SEED = 20260916          # NEU: deterministischer Seed, dokumentiert
 rng = np.random.default_rng(RNG_SEED)
 
 # ===== [1] DATEN =====
-base_dir = Path(r'C:\Users\k5d-q\OneDrive\Python\Zeta_PR\RELEVANT\beta_phase')
-output_dir = base_dir / 'session16workingdir'
-csv_path = base_dir / 'session09' / 'zeta_features_v6_10000.csv'
+base_dir = Path(r'your_path')
+output_dir = base_dir / 'your_path'
+csv_path = base_dir / 'your_path' / 'zeta_features_v6_10000.csv'
 
 df = pd.read_csv(csv_path)
 n = len(df)
