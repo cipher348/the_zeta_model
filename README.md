@@ -66,7 +66,7 @@ and becomes asymmetric near the sampling boundary.
 <br />
 <br />
 
-# The Zeta Model is part of the non-profit 5D-QRT research branch
+The Zeta Model is part of the non-profit 5D-QRT research branch
 
 Note: It does not instrumentalize prime gaps.
 
