@@ -49,7 +49,7 @@ subsequent sampling audit further shows that the fixed dynamical representation 
 samples-per-cycle approach the Nyquist limit. The conditional defect distribution remains structured at the ensemble level but broadens
 and becomes asymmetric near the sampling boundary.
 
-[SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/switch_ensembles) +++upcoming***
+[SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/switch_ensembles) +++upcoming+++
 
 ## Alpha Phase
 
@@ -57,5 +57,11 @@ and becomes asymmetric near the sampling boundary.
 
 ---
 
+## The Zeta Model is part of the non-profit 5D-QRT research branch
 
+Note: It does not instrumentalize prime gaps.
+
+---
+
+Project Philosophy: 'It's not about testing what we know, but what we don't know'
 
