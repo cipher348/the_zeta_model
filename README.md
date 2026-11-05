@@ -17,6 +17,8 @@ dependent prediction intervals from structured measurement data derived from the
 working paper focuses exclusively on methodological development, reproducibility, bootstrap validation, and deployment, while predictive
 applications and theoretical interpretation are intentionally reserved for subsequent stages of the project.
 
+[SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/framework)
+
 ## Beta Phase
 
 # A Causal Drift Predictor for Relative Phase Dynamics
