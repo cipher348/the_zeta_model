@@ -80,3 +80,13 @@ Project Philosophy: 'It's not about testing what we know, but what we don't know
 
 Kai5 & Cipher, Lumo
 
+---
+
+## References
+
+This project uses the Odlyzko Zeta Tables:
+
+  Odlyzko, A. M. (1987–2001). *Tables of zeros of the Riemann zeta function*. University of Minnesota. Available at: [https://www-users.cse.umn.edu/~odlyzko/zeta_tables/index.html](https://www-users.cse.umn.edu/~odlyzko/zeta_tables/index.html)
+
+
+
