@@ -70,7 +70,7 @@ and becomes asymmetric near the sampling boundary.
 
 Note: It does not instrumentalize prime gaps.
 
----
+<br />
 
 Project Philosophy: 'It's not about testing what we know, but what we don't know'
 
@@ -79,8 +79,6 @@ Project Philosophy: 'It's not about testing what we know, but what we don't know
 ## Contributors and collaborative AI
 
 Kai5 & Cipher, Lumo
-
----
 
 <br />
 <br />
