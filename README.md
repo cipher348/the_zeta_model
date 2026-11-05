@@ -17,7 +17,7 @@ dependent prediction intervals from structured measurement data derived from the
 working paper focuses exclusively on methodological development, reproducibility, bootstrap validation, and deployment, while predictive
 applications and theoretical interpretation are intentionally reserved for subsequent stages of the project.
 
-[SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/framework)
+[SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/framework) +++upcoming***
 
 ## Beta Phase
 
@@ -33,6 +33,8 @@ advantage increasing toward the longest tested horizon. The paper focuses on cau
 reproducibility, and transparent treatment of bootstrap limitations. Beta Part I establishes the dynamical predictor layer; Beta Part II
 will address the transition toward a structural predictor of the zeta sequence.
 
+[SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/drift_predictor)
+
 # Conditioned Harmonic Geometry of Switch Ensembles
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23599324-blue)](https://doi.org/10.5281/zenodo.23599324) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -46,6 +48,8 @@ previously forecastable internal phase dynamics of Beta Phase Part I to future s
 subsequent sampling audit further shows that the fixed dynamical representation loses reliable per-zero resolution as its effective
 samples-per-cycle approach the Nyquist limit. The conditional defect distribution remains structured at the ensemble level but broadens
 and becomes asymmetric near the sampling boundary.
+
+[SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/switch_ensembles)
 
 ## Alpha Phase
 
