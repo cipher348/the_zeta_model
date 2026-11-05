@@ -82,11 +82,15 @@ Kai5 & Cipher, Lumo
 
 ---
 
+<br />
+<br />
+
 ## References
 
 This project uses the Odlyzko Zeta Tables:
 
-  Odlyzko, A. M. (1987–2001). *Tables of zeros of the Riemann zeta function*. University of Minnesota. [Available here](https://www-users.cse.umn.edu/~odlyzko/zeta_tables/index.html](https://www-users.cse.umn.edu/~odlyzko/zeta_tables/index.html)
+  Odlyzko, A. M. (1987–2001). *Tables of zeros of the Riemann zeta function*. University of Minnesota.
+  Available here: [https://www-users.cse.umn.edu/~odlyzko/zeta_tables/index.html](https://www-users.cse.umn.edu/~odlyzko/zeta_tables/index.html)
 
 
 
