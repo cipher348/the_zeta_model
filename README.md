@@ -19,6 +19,9 @@ applications and theoretical interpretation are intentionally reserved for subse
 
 [SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/framework)
 
+<br />
+<br />
+
 ## Beta Phase
 
 # A Causal Drift Predictor for Relative Phase Dynamics
@@ -51,13 +54,19 @@ and becomes asymmetric near the sampling boundary.
 
 [SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/switch_ensembles) +++upcoming+++
 
+<br />
+<br />
+
 ## Alpha Phase
 
 +++upcoming+++
 
 ---
 
-## The Zeta Model is part of the non-profit 5D-QRT research branch
+<br />
+<br />
+
+# The Zeta Model is part of the non-profit 5D-QRT research branch
 
 Note: It does not instrumentalize prime gaps.
 
