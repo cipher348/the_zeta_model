@@ -414,8 +414,8 @@ def detect_zero_position(zero_known, N_scan=200, scan_window=2.0,
 # MAIN PIPELINE
 # ============================================================
 CONFIG = {
-    'input_file': r'C:\Users\k5d-q\OneDrive\Python\Zeta_PR\RELEVANT\PLAN C\SESSION19\zeros1.txt',
-    'output_csv': r'C:\Users\k5d-q\OneDrive\Python\Zeta_PR\RELEVANT\beta_phase\session09\zeta_features_v6_10000.csv',
+    'input_file': r'your_path\zeros1.txt',
+    'output_csv': r'your_path\zeta_features_v6_10000.csv',
     'num_zeros': 10000,
     'first_zero_offset': 1,
     'split_ratio': 0.5,
@@ -430,7 +430,7 @@ print(f"  Expected features: ~60-70 per zero")
 print(f"  Expected runtime: ~14-18 hours")
 
 # Create output directory
-Path(r'C:\Users\k5d-q\OneDrive\Python\Zeta_PR\RELEVANT\beta_phase\session09').mkdir(parents=True, exist_ok=True)
+Path(r'your_path').mkdir(parents=True, exist_ok=True)
 
 def load_zeta_zeros(input_path, num_zeros, start_from=1):
     print(f"\n[1/4] Loading {num_zeros} zeros...")
