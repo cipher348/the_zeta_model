@@ -6,7 +6,9 @@
 
 ## List of Publications
 
-##Alpha Phase
+## Gamma Phase
+
+# A Quantile-Based Regression Framework for Physical Measurements with Calibrated Prediction Intervals
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.21397331-blue)](https://doi.org/10.5281/zenodo.21397331)
 
@@ -15,7 +17,9 @@ intervals from structured measurement data derived from the non-trivial zeros of
 exclusively on methodological development, reproducibility, bootstrap validation, and deployment, while predictive applications and
 theoretical interpretation are intentionally reserved for subsequent stages of the project.
 
-##Beta Phase
+## Beta Phase
+
+# A Causal Drift Predictor for Relative Phase Dynamics
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.22823985-blue)](https://doi.org/10.5281/zenodo.22823985)
 
@@ -26,6 +30,8 @@ frozen-phase baseline from the first tested horizon with a fully positive moving
 advantage increasing toward the longest tested horizon. The paper focuses on causal information boundaries, baseline comparison,
 reproducibility, and transparent treatment of bootstrap limitations. Beta Part I establishes the dynamical predictor layer; Beta Part II
 will address the transition toward a structural predictor of the zeta sequence.
+
+# Conditioned Harmonic Geometry of Switch Ensembles
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23599324-blue)](https://doi.org/10.5281/zenodo.23599324)
 
@@ -39,7 +45,7 @@ subsequent sampling audit further shows that the fixed dynamical representation 
 samples-per-cycle approach the Nyquist limit. The conditional defect distribution remains structured at the ensemble level but broadens
 and becomes asymmetric near the sampling boundary.
 
-##Alpha Phase
+## Alpha Phase
 
 +++upcoming+++
 
