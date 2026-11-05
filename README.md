@@ -13,10 +13,10 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.21397331-blue)](https://doi.org/10.5281/zenodo.21397331)
 
-The Zeta Model presents a fully documented, quantile-based regression framework for constructing calibrated, state-dependent prediction
-intervals from structured measurement data derived from the non-trivial zeros of the Riemann zeta function. This working paper focuses
-exclusively on methodological development, reproducibility, bootstrap validation, and deployment, while predictive applications and
-theoretical interpretation are intentionally reserved for subsequent stages of the project.
+The methodological framework presents a fully documented, quantile-based regression framework for constructing calibrated, state
+dependent prediction intervals from structured measurement data derived from the non-trivial zeros of the Riemann zeta function. This
+working paper focuses exclusively on methodological development, reproducibility, bootstrap validation, and deployment, while predictive
+applications and theoretical interpretation are intentionally reserved for subsequent stages of the project.
 
 ## Beta Phase
 
