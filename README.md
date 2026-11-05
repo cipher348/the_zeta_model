@@ -4,7 +4,7 @@
 
 ---
 
-## List of Publications
+# List of Publications
 
 ## Gamma Phase
 
