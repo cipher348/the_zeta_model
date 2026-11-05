@@ -1,6 +1,5 @@
 # The Zeta Model - List of Publications
 'Numeric and analytic research regarding the Riemann Zeta Function'  
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 <br />
@@ -11,7 +10,7 @@
 
 # A Quantile-Based Regression Framework for Physical Measurements with Calibrated Prediction Intervals
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.21397331-blue)](https://doi.org/10.5281/zenodo.21397331)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.21397331-blue)](https://doi.org/10.5281/zenodo.21397331) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 The methodological framework presents a fully documented, quantile-based regression framework for constructing calibrated, state
 dependent prediction intervals from structured measurement data derived from the non-trivial zeros of the Riemann zeta function. This
@@ -22,7 +21,7 @@ applications and theoretical interpretation are intentionally reserved for subse
 
 # A Causal Drift Predictor for Relative Phase Dynamics
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.22823985-blue)](https://doi.org/10.5281/zenodo.22823985)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.22823985-blue)](https://doi.org/10.5281/zenodo.22823985) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Beta Phase, Part I of The Zeta Model presents a causal drift predictor for relative phase dynamics within the Radiale Zahlenräume
 framework. Using only information available up to each forecast anchor, an Extended Kalman Filter estimates the local phase and
@@ -34,7 +33,7 @@ will address the transition toward a structural predictor of the zeta sequence.
 
 # Conditioned Harmonic Geometry of Switch Ensembles
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23599324-blue)](https://doi.org/10.5281/zenodo.23599324)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23599324-blue)](https://doi.org/10.5281/zenodo.23599324) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Several independent tests support a geometric interpretation at the ensemble level. Macro-scale switch organization is reproduced by
 conditioned harmonic constructions without introducing an additional orbit-history term. In particular, adjacent-switch depletion and
