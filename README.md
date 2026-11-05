@@ -1,6 +1,5 @@
 # The Zeta Model - List of Publications  
-**'Numeric and analytic research regarding the Riemann Zeta Function'**  
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23976226-blue)](https://doi.org/10.5281/zenodo.23976226)  
+**'Numeric and analytic research regarding the Riemann Zeta Function'** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23976226-blue)](https://doi.org/10.5281/zenodo.23976226)  
 
 ---
 <br />
