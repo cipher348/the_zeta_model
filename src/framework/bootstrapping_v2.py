@@ -80,7 +80,7 @@ print("=" * 70)
 print("SESSION 152 (S153 CONVENTION): BOOTSTRAPPING")
 print("=" * 70)
 
-df = pd.read_csv(r'C:\Users\k5d-q\OneDrive\Python\Zeta_PR\RELEVANT\PLAN C\SESSION19\zeta_features_5000.csv')
+df = pd.read_csv(r'your_path\zeta_features_5000.csv')
 
 df['s'] = np.sign(df['delta_actual'])
 df['R_aligned'] = df['s'] * df['R_prime']
