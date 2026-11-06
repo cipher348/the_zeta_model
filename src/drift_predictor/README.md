@@ -162,6 +162,3 @@ This folder contains the phase-drift modeling pipeline for the zeta project. It 
 
 The feature generator builds the large dataset; the drift model interprets it in terms of causal phase/frequency coupling and exports a detailed public summary.
 
----
-
-If you want, I can also prepare a shorter “quick start” version or a more polished repository-style README for this folder.
