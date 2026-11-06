@@ -155,9 +155,9 @@ def detect_zero_position(zero_known, N_scan=200, scan_window=2.0):
 # ============================================================
 
 CONFIG = {
-    'input_file': r'C:\Users\k5d-q\OneDrive\Python\Zeta_PR\RELEVANT\PLAN C\SESSION19\zeros1.txt',
-    'output_csv': r'C:\Users\k5d-q\OneDrive\Python\Zeta_PR\RELEVANT\PLAN C\SESSION19\zeta_features_5000.csv',
-    'output_json': r'C:\Users\k5d-q\OneDrive\Python\Zeta_PR\RELEVANT\PLAN C\SESSION19\zeta_features_5000.json',
+    'input_file': r'your_path\zeros1.txt',
+    'output_csv': r'your_path\zeta_features_5000.csv',
+    'output_json': r'your_path\zeta_features_5000.json',
     'num_zeros': 5000,  # Number of zeros to extract
     'first_zero_offset': 1,  # Which zero to start from (1-indexed)
     'split_ratio': 0.5,  # 50% CAL (first half), 50% VAL (second half)
