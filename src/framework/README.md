@@ -283,6 +283,3 @@ This folder contains a research pipeline for zeta-zero analysis and residual-mod
 
 Together they form a workflow for exploring the zeta zero geometry, modeling residual behavior, and summarizing the final method in visual form.
 
----
-
-If you want, I can also create a shorter version of this README tailored specifically to a single analysis workflow or convert it into a more polished repository-style documentation page.
