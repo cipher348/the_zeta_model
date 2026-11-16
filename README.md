@@ -53,7 +53,7 @@ subsequent sampling audit further shows that the fixed dynamical representation 
 samples-per-cycle approach the Nyquist limit. The conditional defect distribution remains structured at the ensemble level but broadens
 and becomes asymmetric near the sampling boundary.
 
-[SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/switch_ensembles)
+[SOURCE](https://github.com/cipher348/the_zeta_model/tree/4813f411602422d520155b1132ef74101e9b94a1/src/switch_ensembles)
 
 <br />
 <br />
