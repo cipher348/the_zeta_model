@@ -18,7 +18,7 @@ dependent prediction intervals from structured measurement data derived from the
 working paper focuses exclusively on methodological development, reproducibility, bootstrap validation, and deployment, while predictive
 applications and theoretical interpretation are intentionally reserved for subsequent stages of the project.
 
-[SOURCE](https://github.com/cipher348/the_zeta_model/tree/03dbb22d67a64baea39bc8a57a233f01a0530f22/src/framework)
+[SOURCE](./src/framework)
 
 <br />
 <br />
