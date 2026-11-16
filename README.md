@@ -18,7 +18,7 @@ dependent prediction intervals from structured measurement data derived from the
 working paper focuses exclusively on methodological development, reproducibility, bootstrap validation, and deployment, while predictive
 applications and theoretical interpretation are intentionally reserved for subsequent stages of the project.
 
-[SOURCE](https://github.com/cipher348/the_zeta_model/tree/41979cb24c1f6faca246cca035e25de578a759cc/src/framework)
+[SOURCE](https://github.com/cipher348/the_zeta_model/tree/03dbb22d67a64baea39bc8a57a233f01a0530f22/src/framework)
 
 <br />
 <br />
@@ -37,7 +37,7 @@ advantage increasing toward the longest tested horizon. The paper focuses on cau
 reproducibility, and transparent treatment of bootstrap limitations. Beta Part I establishes the dynamical predictor layer; Beta Part II
 will address the transition toward a structural predictor of the zeta sequence.
 
-[SOURCE](https://github.com/cipher348/the_zeta_model/tree/74556cc3a4bff9b2a06dbf2cda3260c322415c62/src/drift_predictor)
+[SOURCE](https://github.com/cipher348/the_zeta_model/tree/03dbb22d67a64baea39bc8a57a233f01a0530f22/src/drift_predictor)
 
 # Conditioned Harmonic Geometry of Switch Ensembles
 
