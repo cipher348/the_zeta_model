@@ -18,7 +18,7 @@ dependent prediction intervals from structured measurement data derived from the
 working paper focuses exclusively on methodological development, reproducibility, bootstrap validation, and deployment, while predictive
 applications and theoretical interpretation are intentionally reserved for subsequent stages of the project.
 
-[SOURCE](./src/framework)
+[SOURCE](./src/framework/)
 
 <br />
 <br />
@@ -37,7 +37,7 @@ advantage increasing toward the longest tested horizon. The paper focuses on cau
 reproducibility, and transparent treatment of bootstrap limitations. Beta Part I establishes the dynamical predictor layer; Beta Part II
 will address the transition toward a structural predictor of the zeta sequence.
 
-[SOURCE](./src/drift_predictor)
+[SOURCE](./src/drift_predictor/)
 
 # Conditioned Harmonic Geometry of Switch Ensembles
 
@@ -53,7 +53,7 @@ subsequent sampling audit further shows that the fixed dynamical representation 
 samples-per-cycle approach the Nyquist limit. The conditional defect distribution remains structured at the ensemble level but broadens
 and becomes asymmetric near the sampling boundary.
 
-[SOURCE](./src/switch_ensembles)
+[SOURCE](./src/switch_ensembles/)
 
 <br />
 <br />
