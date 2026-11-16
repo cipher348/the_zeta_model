@@ -112,4 +112,4 @@ python s29_deficit_redistribution.py --path zt_full_switches.csv.gz
 python s30_grid_td.py
 ```
 
-The full transition scan and the analysis scripts can be computationally intensive. Use each script's help/options and smoke-test options before a full run.
+The full transition scan and the analysis scripts can be computationally intensive, transition computation may take days to complete. Use each script's help/options and smoke-test options before a full run.
