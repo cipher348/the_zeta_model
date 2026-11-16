@@ -37,7 +37,7 @@ advantage increasing toward the longest tested horizon. The paper focuses on cau
 reproducibility, and transparent treatment of bootstrap limitations. Beta Part I establishes the dynamical predictor layer; Beta Part II
 will address the transition toward a structural predictor of the zeta sequence.
 
-[SOURCE](https://github.com/cipher348/the_zeta_model/tree/03dbb22d67a64baea39bc8a57a233f01a0530f22/src/drift_predictor)
+[SOURCE](./src/drift_predictor)
 
 # Conditioned Harmonic Geometry of Switch Ensembles
 
@@ -53,7 +53,7 @@ subsequent sampling audit further shows that the fixed dynamical representation 
 samples-per-cycle approach the Nyquist limit. The conditional defect distribution remains structured at the ensemble level but broadens
 and becomes asymmetric near the sampling boundary.
 
-[SOURCE](https://github.com/cipher348/the_zeta_model/tree/4813f411602422d520155b1132ef74101e9b94a1/src/switch_ensembles)
+[SOURCE](./src/switch_ensembles)
 
 <br />
 <br />
